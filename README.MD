@@ -9,3 +9,4 @@
             * = optional
     - Gained better knowledge of use of CSS opacity property.
         - If applied to parent elements will affect all children (found through experimentation).
+    - Learned proper use of HSL color wheel.
