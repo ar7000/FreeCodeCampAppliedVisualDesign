@@ -11,7 +11,7 @@
         - If applied to parent elements will affect all children (found through experimentation).
     - Learned proper use of HSL color wheel.
     - Learned how to use repeating linear gradients.
-        - Make identical pairs of color stops to creat stripes:
+        - Make identical pairs of color stops to create stripes:
             background: repeating-linear-gradient(45deg,
                     yellow 0px,
                     yellow 40px,
