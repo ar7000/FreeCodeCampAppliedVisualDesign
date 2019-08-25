@@ -10,3 +10,11 @@
     - Gained better knowledge of use of CSS opacity property.
         - If applied to parent elements will affect all children (found through experimentation).
     - Learned proper use of HSL color wheel.
+    - Learned how to use repeating linear gradients.
+        - Make identical pairs of color stops to creat stripes:
+            background: repeating-linear-gradient(45deg,
+                    yellow 0px,
+                    yellow 40px,
+                    black 40px,
+                    black 80px);
+    -Learned use of ::before and ::after pseudo elements.
